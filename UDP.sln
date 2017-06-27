@@ -5,6 +5,10 @@ VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01_UDP_Client", "01_UDP_Client\01_UDP_Client.csproj", "{831181F7-090A-4CFF-8559-495181299833}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02_UDP_Multicast", "02_UDP_Multicast\02_UDP_Multicast.csproj", "{F5A391FD-FBD4-46AA-A462-D54EAEF110F0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03_WF_Chat", "03_WF_Chat\03_WF_Chat.csproj", "{252106B4-0BC1-4A7E-8235-A24D66E94277}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{831181F7-090A-4CFF-8559-495181299833}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{831181F7-090A-4CFF-8559-495181299833}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{831181F7-090A-4CFF-8559-495181299833}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F5A391FD-FBD4-46AA-A462-D54EAEF110F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F5A391FD-FBD4-46AA-A462-D54EAEF110F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F5A391FD-FBD4-46AA-A462-D54EAEF110F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F5A391FD-FBD4-46AA-A462-D54EAEF110F0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{252106B4-0BC1-4A7E-8235-A24D66E94277}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{252106B4-0BC1-4A7E-8235-A24D66E94277}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{252106B4-0BC1-4A7E-8235-A24D66E94277}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{252106B4-0BC1-4A7E-8235-A24D66E94277}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
